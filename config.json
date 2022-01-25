@@ -1,0 +1,60 @@
+{
+    "bot": {
+        "owner": "823511480858443816",
+        "botdurum": "Sirius 🧡 Nursah",
+        "prefix": ".",
+        "GuildID": "925083964811661323"
+    },
+    "penals": {
+        "ban": {
+            "staff": "925083965105258585",
+            "log": "925083970369105920",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "925083965105258584",
+            "roles": "925083965122023482",
+            "log": "925083969979043889",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "925083965105258582",
+            "roles": "925083965122023479",
+            "log": "925083970369105921",
+            "limit": 5
+        },
+      "points": {
+        "mutepoints": "5",
+        "banpoints": "15",
+        "jailpoints": "15"
+      }
+    },
+    "logs": {
+        "messagelog": "925083970864037958",
+        "voicelog": "925083970369105928",
+        "taglog": "925083970864037961"
+
+    },
+    "roles": {
+        "boosterrole": "925849147662295100",
+        "viprole": "926927256964706385",
+        "designerrole": "",
+        "musiciansrole": "925083965151399974",
+        "familyrole": "925083965151399968"
+    },
+    "meeting": {
+        "katıldı": "925083967126896643",
+        "yetkili": "",
+        "meetingchannel": "925083967504408605"
+    },
+    "channels": {
+        "chat": "",
+        "voicechannel": "925083967504408604"
+    },
+    "parents": {
+        "publicparents": ""
+    },
+    "registration": {
+        "GuilDTag": "⚝ "
+    }
+}
